@@ -6,9 +6,6 @@ with col1:
     st.subheader("Name")
     st.title("Vipul Singh")
 with col2:
-    # st.image("new.png")
-    image_url = "https://raw.githubusercontent.com/VipulSingh2/digital_resume/main/vipulimage.jpg"
-    st.image(image_url, caption='Vipul Singh')
     st.image("https://raw.githubusercontent.com/VipulSingh2/digital_resume/main/vipulimage.jpg")
 st.divider()
 col1,col2,col3,col4 = st.columns([1.4,2,1,1])
