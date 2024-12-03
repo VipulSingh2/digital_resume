@@ -9,7 +9,7 @@ with col2:
     # st.image("new.png")
     image_url = "https://raw.githubusercontent.com/VipulSingh2/digital_resume/main/vipulimage.jpg"
     st.image(image_url, caption='Vipul Singh')
-    st.write("Image will upload here")
+    st.image("https://raw.githubusercontent.com/VipulSingh2/digital_resume/main/vipulimage.jpg")
 st.divider()
 col1,col2,col3,col4 = st.columns([1.4,2,1,1])
 
