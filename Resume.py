@@ -7,6 +7,7 @@ with col1:
     st.title("Vipul Singh")
 with col2:
     # st.image("new.png")
+    st.write("Image will upload here")
 st.divider()
 col1,col2,col3,col4 = st.columns([1.4,2,1,1])
 
