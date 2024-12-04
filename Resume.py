@@ -53,7 +53,7 @@ with col2:
     st.write("_Excel,Power BI,MySQL,Pandas_")
     st.write("_Pandas,Numpy,Matplotlib,Streamlit_")
     st.write("_Github_")
-st.divider
+st.divider()
 # for adding the internship details
 st.header(":orange[📄INTERNSHIP]")
 st.write("Accenture North America")
