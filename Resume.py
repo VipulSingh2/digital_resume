@@ -93,3 +93,4 @@ st.divider()
 # adding ther personal interests
 st.header(":orange[🧩INTERESTS]")
 st.write(" • _Programming Problems: Counting combinations or permutations and finding unique characters in strings_.")
+
